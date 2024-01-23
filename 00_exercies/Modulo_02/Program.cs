@@ -1,6 +1,6 @@
 ﻿namespace Modulo_02
 {
-    internal class Program
+    internal partial class Program
     {
         public static void Main(string[] args)
         {
