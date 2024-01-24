@@ -17,25 +17,19 @@ namespace Modulo_02
 
             private DateTime stopedTime { get; set; }
 
-            public void StartTimer(DateTime startAt)
+            public DateTime StartTimer
             {
-                startedTime = startAt;
+                get => startedTime = DateTime.Now;
             }
 
-            public void StopTimer(DateTime stopedAt)
+            public DateTime StopTimer
             {
-                stopedTime = stopedAt;
+                get => stopedTime = DateTime.Now;
             }
 
-            public TimeSpan SpentTime()
-            {
-                return stopedTime - startedTime;
-            }
+            public TimeSpan SpentTime => stopedTime - startedTime;
 
-            public bool IsRunning()
-            {
-                return startedTime < stopedTime;
-            }
+            public bool IsRunning => startedTime < stopedTime;
         }
     }
 }
