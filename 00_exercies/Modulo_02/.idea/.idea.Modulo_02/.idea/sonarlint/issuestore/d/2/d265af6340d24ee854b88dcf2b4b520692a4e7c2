@@ -1,0 +1,8 @@
+
+ycsharpsquid:S2376	"PProvide a getter for 'VoteUp' or replace the property with a 'SetVoteUp' method.(£ÒÉ—ùÿÿÿÿ8Ó°ŒìÓ1
+}csharpsquid:S2376"TProvide a getter for 'VoteDown' or replace the property with a 'SetVoteDown' method.(£¾¯îøÿÿÿÿ8¾ƒìÓ1
+Wcsharpsquid:S1144".Remove the unused private property 'VoteDown'.(£¾¯îøÿÿÿÿ8¿ƒìÓ1
+ecsharpsquid:S1144"<Remove the unused private set accessor in property 'VoteUp'.(ÌÖÕÜşÿÿÿÿ8í‘ìÓ1
+vcsharpsquid:S3237"MUse the 'value' contextual keyword in this property set accessor declaration.(ÌÖÕÜşÿÿÿÿ8Ô°ŒìÓ1
+vcsharpsquid:S3237"MUse the 'value' contextual keyword in this property set accessor declaration.(ÌÖÕÜşÿÿÿÿ8¿ƒìÓ1
+csharpsquid:S3260"[Private classes which are not derived in the current assembly should be marked as 'sealed'.(Êù¿›8’Ù“ëÓ1

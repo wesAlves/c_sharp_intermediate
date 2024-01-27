@@ -1,0 +1,6 @@
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\bin\Debug\Modulo_02.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\bin\Debug\Modulo_02.pdb
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\obj\Debug\Modulo_02.csproj.AssemblyReference.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\obj\Debug\Modulo_02.csproj.CoreCompileInputs.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\obj\Debug\Modulo_02.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Modulo_02\obj\Debug\Modulo_02.pdb

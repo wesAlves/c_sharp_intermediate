@@ -1,0 +1,6 @@
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\bin\Debug\Stack.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\bin\Debug\Stack.pdb
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\obj\Debug\Stack.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\Stack\obj\Debug\Stack.pdb
