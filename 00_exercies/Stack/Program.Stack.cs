@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Stack
@@ -16,11 +17,34 @@ namespace Stack
 
             public object Pop()
             {
-                return (object) _stackObjects.Last();
+                var poppedObj = _stackObjects.Last();
+                _stackObjects.Remove(poppedObj);
+
+                return poppedObj;
             }
 
             public void Clear()
             {
+                while (_stackObjects.Count > 0)
+                {
+                    _stackObjects.Remove(_stackObjects.Last());
+                }
+            }
+
+            public void PrintStack()
+            {
+                if (_stackObjects.Count > 0)
+                {
+                    foreach (var item in _stackObjects)
+                    {
+                        Console.WriteLine(item);
+                    }
+                }
+
+                else
+                {
+                    Console.WriteLine("The stack is empty");
+                }
             }
         }
     }
