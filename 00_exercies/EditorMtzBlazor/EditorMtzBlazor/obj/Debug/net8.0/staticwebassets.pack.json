@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Documents\\01_Clientes\\00_Wesley\\00_Estudos\\XIII_UDEMY\\01_C#_intermediate\\00_exercies\\EditorMtzBlazor\\EditorMtzBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EditorMtzBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EditorMtzBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Documents\\01_Clientes\\00_Wesley\\00_Estudos\\XIII_UDEMY\\01_C#_intermediate\\00_exercies\\EditorMtzBlazor\\EditorMtzBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Documents\\01_Clientes\\00_Wesley\\00_Estudos\\XIII_UDEMY\\01_C#_intermediate\\00_exercies\\EditorMtzBlazor\\EditorMtzBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Documents\\01_Clientes\\00_Wesley\\00_Estudos\\XIII_UDEMY\\01_C#_intermediate\\00_exercies\\EditorMtzBlazor\\EditorMtzBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Documents\\01_Clientes\\00_Wesley\\00_Estudos\\XIII_UDEMY\\01_C#_intermediate\\00_exercies\\EditorMtzBlazor\\EditorMtzBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EditorMtzBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EditorMtzBlazor.props",
+      "PackagePath": "build\\EditorMtzBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EditorMtzBlazor.props",
+      "PackagePath": "buildMultiTargeting\\EditorMtzBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EditorMtzBlazor.props",
+      "PackagePath": "buildTransitive\\EditorMtzBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
