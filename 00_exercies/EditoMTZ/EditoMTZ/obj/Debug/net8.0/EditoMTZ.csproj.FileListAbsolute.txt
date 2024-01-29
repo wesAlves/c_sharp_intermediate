@@ -1,0 +1,15 @@
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\EditoMTZ.exe
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\EditoMTZ.deps.json
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\EditoMTZ.runtimeconfig.json
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\EditoMTZ.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\EditoMTZ.pdb
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.AssemblyInfoInputs.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.AssemblyInfo.cs
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.csproj.CoreCompileInputs.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.sourcelink.json
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\refint\EditoMTZ.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.pdb
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.genruntimeconfig.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\ref\EditoMTZ.dll
