@@ -19,3 +19,5 @@ b
 2EditoMTZ/obj/Debug/net8.0/EditoMTZ.AssemblyInfo.cs,c\4\c4448d726718e5106b757df80ca2511bfe098ef1
 =
 .dockerignore,0\5\05a721ebe3ba0754116825ed1359ff1785f4bbac
+L
+EditoMTZ/ebook/HtmlFormat.cs,9\3\93318a0f1b40f10614892fbf297eb3a055dc4a68
