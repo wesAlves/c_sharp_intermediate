@@ -6,6 +6,17 @@ public abstract class Ebook
     public string id { get; protected set; }
 
 
+    public abstract void Create();
+
+    public void ReadDataFromFile(object file)
+    {
+        for (var i = 0; i < 100;)
+        {
+            Console.WriteLine("jaca {0}", i);
+            i++;
+        }
+    }
+
     public void Rename(string newName)
     {
         name = newName;
@@ -15,6 +26,4 @@ public abstract class Ebook
     {
         Console.WriteLine("Downloading file...");
     }
-
-    public abstract void Create();
 }

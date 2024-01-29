@@ -6,3 +6,4 @@
 using EditoMTZ.ebook;
 
 var ebook01 = new HtmlFormat("jaca", "1243");
+ebook01.ReadDataFromFile("amora.txt");
