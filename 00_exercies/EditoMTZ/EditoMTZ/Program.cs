@@ -6,7 +6,7 @@
 using EditoMTZ.ebook;
 
 var ebook01 = new HtmlFormat("jaca", "1243");
-var dirPath = @"../../../../EditoMTZ/file.txt";
+var dirPath = @"../../../../EditoMTZ/test.docx";
 
 ebook01.ReadDataFromFile(dirPath);
 

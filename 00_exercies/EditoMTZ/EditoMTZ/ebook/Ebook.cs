@@ -1,4 +1,7 @@
-﻿using System.Text;
+﻿using System.IO.Packaging;
+using System.Text;
+using DocumentFormat.OpenXml.Packaging;
+using DocumentFormat.OpenXml.Wordprocessing;
 
 namespace EditoMTZ.ebook;
 
@@ -12,9 +15,23 @@ public abstract class Ebook
 
     public void ReadDataFromFile(string dirPath)
     {
+        
+        //Need to open a package first
+        Package wordPackage = Package.Open(dirPath, FileMode.Open, FileAccess.Read);
+        
+        //open the word processing document based on packege
+        using (WordprocessingDocument wordDocument = WordprocessingDocument.Open(wordPackage))
+        {
+            Body body = wordDocument.MainDocumentPart.Document.Body;
 
-        using var myFile = new StreamReader(dirPath);
-            Console.WriteLine(myFile.ReadToEnd());
+            Console.WriteLine(body);
+            
+        }
+
+        
+        // using var myFile = new StreamReader(dirPath);
+        // Console.WriteLine(myFile.ReadToEnd());
+
     }
 
     public void Rename(string newName)

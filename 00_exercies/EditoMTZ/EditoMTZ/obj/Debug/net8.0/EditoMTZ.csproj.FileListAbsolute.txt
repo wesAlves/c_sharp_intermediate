@@ -13,3 +13,8 @@ D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_e
 D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.pdb
 D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.genruntimeconfig.cache
 D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\ref\EditoMTZ.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.csproj.AssemblyReference.cache
+D:\Documents\01_Clientes\00_Wesley\00_Estudos\XIII_UDEMY\01_C#_intermediate\00_exercies\EditoMTZ\EditoMTZ\obj\Debug\net8.0\EditoMTZ.csproj.CopyComplete
