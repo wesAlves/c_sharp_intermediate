@@ -15,23 +15,30 @@ public abstract class Ebook
 
     public void ReadDataFromFile(string dirPath)
     {
-        
         //Need to open a package first
         Package wordPackage = Package.Open(dirPath, FileMode.Open, FileAccess.Read);
-        
+
         //open the word processing document based on packege
         using (WordprocessingDocument wordDocument = WordprocessingDocument.Open(wordPackage))
         {
             Body body = wordDocument.MainDocumentPart.Document.Body;
 
-            Console.WriteLine(body);
-            
+            foreach (var element in body)
+            {
+                var att = element.GetAttributes();
+
+                foreach (var at in att)
+                {
+                    Console.WriteLine(at.XName);
+                }
+                
+                
+            }
         }
 
-        
+
         // using var myFile = new StreamReader(dirPath);
         // Console.WriteLine(myFile.ReadToEnd());
-
     }
 
     public void Rename(string newName)
