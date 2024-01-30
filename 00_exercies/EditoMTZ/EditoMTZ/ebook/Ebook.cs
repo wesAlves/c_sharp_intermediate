@@ -1,4 +1,6 @@
-﻿namespace EditoMTZ.ebook;
+﻿using System.Text;
+
+namespace EditoMTZ.ebook;
 
 public abstract class Ebook
 {
@@ -12,7 +14,7 @@ public abstract class Ebook
     {
 
         using var myFile = new StreamReader(dirPath);
-        Console.WriteLine(myFile.ReadToEnd());
+            Console.WriteLine(myFile.ReadToEnd());
     }
 
     public void Rename(string newName)
