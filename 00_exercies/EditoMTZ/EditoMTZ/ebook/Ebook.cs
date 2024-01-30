@@ -8,22 +8,11 @@ public abstract class Ebook
 
     public abstract void Create();
 
-    public void ReadDataFromFile()
+    public void ReadDataFromFile(string dirPath)
     {
 
-        // var myDir = Directory.GetDirectories("../../");
-        //
-        // Console.WriteLine(myDir);
-        
-        // try
-        // {
-        //     using var myFile = new StreamReader("*.txt");
-        //     Console.WriteLine(myFile.ReadToEnd());
-        // }
-        // catch (Exception e)
-        // {
-        //     Console.WriteLine(e);
-        // }
+        using var myFile = new StreamReader(dirPath);
+        Console.WriteLine(myFile.ReadToEnd());
     }
 
     public void Rename(string newName)

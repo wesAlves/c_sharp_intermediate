@@ -6,18 +6,12 @@
 using EditoMTZ.ebook;
 
 var ebook01 = new HtmlFormat("jaca", "1243");
-ebook01.ReadDataFromFile();
-
 var dirPath = @"../../../../EditoMTZ/file.txt";
 
-using (var myFile = new StreamReader(dirPath))
-{
-    Console.WriteLine(myFile.ReadToEnd());
-}
+ebook01.ReadDataFromFile(dirPath);
 
-// var myDir = Directory.EnumerateDirectories(dirPath);
-//
-// foreach (var directory in myDir)
-// {
-//     Console.WriteLine(directory);
-// }
+
+
+
+
+
