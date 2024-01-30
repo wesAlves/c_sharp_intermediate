@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EditoMTZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c9f522886f00455c960b89243f0f6f2ae70f5ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4d6f02591e813f8133ade51116236f4f7b690cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EditoMTZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EditoMTZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

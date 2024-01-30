@@ -8,13 +8,22 @@ public abstract class Ebook
 
     public abstract void Create();
 
-    public void ReadDataFromFile(object file)
+    public void ReadDataFromFile()
     {
-        for (var i = 0; i < 100;)
-        {
-            Console.WriteLine("jaca {0}", i);
-            i++;
-        }
+
+        // var myDir = Directory.GetDirectories("../../");
+        //
+        // Console.WriteLine(myDir);
+        
+        // try
+        // {
+        //     using var myFile = new StreamReader("*.txt");
+        //     Console.WriteLine(myFile.ReadToEnd());
+        // }
+        // catch (Exception e)
+        // {
+        //     Console.WriteLine(e);
+        // }
     }
 
     public void Rename(string newName)

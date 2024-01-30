@@ -3,8 +3,6 @@ C
 EditoMTZ/Program.cs,e\6\e61fe2ef8293145954b443ab06e5bbcb25f92cec
 C
 EditoMTZ/Dockerfile,9\a\9a1b0b9526f41d94fa51e933e9245160d8a3739b
-A
-EditoMTZ/Ebook.cs,9\1\91c9a268b0628fd24ea2fe1f0631c3fd7d680eaf
 G
 EditoMTZ/ebook/Ebook.cs,1\2\129a871345fa1bcdcf527de81bf7c6efd73c746c
 |
@@ -21,3 +19,5 @@ b
 .dockerignore,0\5\05a721ebe3ba0754116825ed1359ff1785f4bbac
 L
 EditoMTZ/ebook/HtmlFormat.cs,9\3\93318a0f1b40f10614892fbf297eb3a055dc4a68
+A
+EditoMTZ/file.txt,a\8\a822e64835ae5abdf00584a952ccabc33acc5020
